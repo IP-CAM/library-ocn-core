@@ -7,7 +7,7 @@ namespace OCN;
 class Pagination
 {
 	private $total = 0;
-	private $per_page = 3;
+	private $per_page = 10;
 	private $visible_pages = 2;
 	private $current_page = 1;
 	private $last_page = 1;
